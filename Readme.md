@@ -1,5 +1,8 @@
 # Clignogo
 
+![arduino](arduino.png)
+
+
 Un petit projet pour faire clignoter une led en golang et en francais avec tinygo et un arduino.
 
 ## Matos
